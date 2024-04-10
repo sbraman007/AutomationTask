@@ -1,0 +1,577 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 13,
+        "name": "To validate negative and positive combination of data",
+        "description": "",
+        "id": "to-validate-login-functionality-of-facebook;to-validate-negative-and-positive-combination-of-data;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5469078700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To launch the browser and maximise it",
+            "match": {
+              "location": "Code.to_launch_the_browser_and_maximise_it()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13509429600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the url of the Faceboook",
+            "match": {
+              "location": "Code.to_launch_the_url_of_the_Faceboook()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 330932900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Pass the data in \"sbraman11839@gamil.com\" in email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sbraman11839@gamil.com\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_email_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 307896500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Pass the data in \"Sb@raman007\" in password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sb@raman007\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_password_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10101274800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To click the login button",
+            "match": {
+              "location": "Code.to_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1413305600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the browser",
+            "match": {
+              "location": "Code.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "To validate negative and positive combination of data",
+        "description": "",
+        "id": "to-validate-login-functionality-of-facebook;to-validate-negative-and-positive-combination-of-data;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4214592100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To launch the browser and maximise it",
+            "match": {
+              "location": "Code.to_launch_the_browser_and_maximise_it()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7459560600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the url of the Faceboook",
+            "match": {
+              "location": "Code.to_launch_the_url_of_the_Faceboook()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 272313400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Pass the data in \"sbramdf11839@gamil.com\" in email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sbramdf11839@gamil.com\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_email_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 336612400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Pass the data in \"Sb@raman007\" in password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sb@raman007\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_password_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10108634100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To click the login button",
+            "match": {
+              "location": "Code.to_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2169569900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the browser",
+            "match": {
+              "location": "Code.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "To validate negative and positive combination of data",
+        "description": "",
+        "id": "to-validate-login-functionality-of-facebook;to-validate-negative-and-positive-combination-of-data;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4404232400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To launch the browser and maximise it",
+            "match": {
+              "location": "Code.to_launch_the_browser_and_maximise_it()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9554098200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the url of the Faceboook",
+            "match": {
+              "location": "Code.to_launch_the_url_of_the_Faceboook()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 301785000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Pass the data in \"sbraman11839@gamil.com\" in email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sbraman11839@gamil.com\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_email_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 274362700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Pass the data in \"Sb@fvman007\" in password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sb@fvman007\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_password_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10081943500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To click the login button",
+            "match": {
+              "location": "Code.to_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1122267000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the browser",
+            "match": {
+              "location": "Code.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "To validate negative and positive combination of data",
+        "description": "",
+        "id": "to-validate-login-functionality-of-facebook;to-validate-negative-and-positive-combination-of-data;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3134583900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To launch the browser and maximise it",
+            "match": {
+              "location": "Code.to_launch_the_browser_and_maximise_it()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8933703100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the url of the Faceboook",
+            "match": {
+              "location": "Code.to_launch_the_url_of_the_Faceboook()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 357213700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Pass the data in \"sbraman11839@gamil.com\" in email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sbraman11839@gamil.com\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_email_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 148960800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Pass the data in \"\" in password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_password_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10090296500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To click the login button",
+            "match": {
+              "location": "Code.to_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 980359300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the browser",
+            "match": {
+              "location": "Code.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "To validate negative and positive combination of data",
+        "description": "",
+        "id": "to-validate-login-functionality-of-facebook;to-validate-negative-and-positive-combination-of-data;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2828915500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To launch the browser and maximise it",
+            "match": {
+              "location": "Code.to_launch_the_browser_and_maximise_it()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7320259700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the url of the Faceboook",
+            "match": {
+              "location": "Code.to_launch_the_url_of_the_Faceboook()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 123054800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Pass the data in \"\" in email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_email_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 247584300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Pass the data in \"Sb@raman007\" in password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sb@raman007\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_password_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10069207200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To click the login button",
+            "match": {
+              "location": "Code.to_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 869640800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the browser",
+            "match": {
+              "location": "Code.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "To validate negative and positive combination of data",
+        "description": "",
+        "id": "to-validate-login-functionality-of-facebook;to-validate-negative-and-positive-combination-of-data;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1976820500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To launch the browser and maximise it",
+            "match": {
+              "location": "Code.to_launch_the_browser_and_maximise_it()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5510946300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the url of the Faceboook",
+            "match": {
+              "location": "Code.to_launch_the_url_of_the_Faceboook()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 113764900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Pass the data in \"\" in email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_email_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 151346900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Pass the data in \"\" in password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Code.to_Pass_the_data_in_in_password_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10083908600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To click the login button",
+            "match": {
+              "location": "Code.to_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 744668800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the browser",
+            "match": {
+              "location": "Code.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To validate login functionality of Facebook",
+    "description": "",
+    "id": "to-validate-login-functionality-of-facebook",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Login.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="145.132659">
+    <testcase classname="To validate login functionality of Facebook" name="To validate negative and positive combination of data" time="31.139989">
+        <system-out><![CDATA[Given To launch the browser and maximise it.................................passed
+When To launch the url of the Faceboook.....................................passed
+And To Pass the data in "sbraman11839@gamil.com" in email field.............passed
+And To Pass the data in "Sb@raman007" in password field.....................passed
+And To click the login button...............................................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality of Facebook" name="To validate negative and positive combination of data 2" time="24.562268">
+        <system-out><![CDATA[Given To launch the browser and maximise it.................................passed
+When To launch the url of the Faceboook.....................................passed
+And To Pass the data in "sbramdf11839@gamil.com" in email field.............passed
+And To Pass the data in "Sb@raman007" in password field.....................passed
+And To click the login button...............................................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality of Facebook" name="To validate negative and positive combination of data 3" time="25.74004">
+        <system-out><![CDATA[Given To launch the browser and maximise it.................................passed
+When To launch the url of the Faceboook.....................................passed
+And To Pass the data in "sbraman11839@gamil.com" in email field.............passed
+And To Pass the data in "Sb@fvman007" in password field.....................passed
+And To click the login button...............................................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality of Facebook" name="To validate negative and positive combination of data 4" time="23.648291">
+        <system-out><![CDATA[Given To launch the browser and maximise it.................................passed
+When To launch the url of the Faceboook.....................................passed
+And To Pass the data in "sbraman11839@gamil.com" in email field.............passed
+And To Pass the data in "" in password field................................passed
+And To click the login button...............................................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality of Facebook" name="To validate negative and positive combination of data 5" time="21.459538">
+        <system-out><![CDATA[Given To launch the browser and maximise it.................................passed
+When To launch the url of the Faceboook.....................................passed
+And To Pass the data in "" in email field...................................passed
+And To Pass the data in "Sb@raman007" in password field.....................passed
+And To click the login button...............................................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality of Facebook" name="To validate negative and positive combination of data 6" time="18.582533">
+        <system-out><![CDATA[Given To launch the browser and maximise it.................................passed
+When To launch the url of the Faceboook.....................................passed
+And To Pass the data in "" in email field...................................passed
+And To Pass the data in "" in password field................................passed
+And To click the login button...............................................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
